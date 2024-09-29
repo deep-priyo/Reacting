@@ -1,8 +1,19 @@
-# React + Vite
+# 🃏 Card Component Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+This project is a simple React component that displays a card interface showcasing various products. Each card includes an image, product name, description, and an availability status button indicating whether the product is in stock or sold out. 🛍️
 
-Currently, two official plugins are available:
+## Features
+- 🔄 Dynamic rendering of product information using React.
+- 🎨 Conditional styling based on product availability.
+- 📱 Responsive design suitable for various screen sizes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- ⚛️ React
+- 📜 JavaScript (ES6)
+- 🎨 Tailwind CSS (for styling)
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/react-card-component.git
